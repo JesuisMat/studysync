@@ -7,7 +7,7 @@ StudySync transforme un cours PDF en quiz QCM corrigé et expliqué, puis montre
 | | Lien |
 |---|---|
 | 📋 Board de suivi (GitHub Projects) | <https://github.com/users/JesuisMat/projects/4> |
-| 📚 Documentation projet (Notion) | <https://www.notion.so/3f45743a17a68185878cf3170e88d91a> |
+| 📚 Documentation projet (Notion) | <https://curious-nitrogen-736.notion.site/StudySync-Espace-projet-3f45743a17a68185878cf3170e88d91a> |
 | 🗺️ Sprints (milestones) | <https://github.com/JesuisMat/studysync/milestones> |
 
 ## Équipe

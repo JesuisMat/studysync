@@ -48,7 +48,7 @@ Hors périmètre : application mobile native, partage social, formats autres que
 
 ## Architecture
 
-> 🚧 Schéma du MVP à venir dans `docs/architecture.md` — ticket [#24](https://github.com/JesuisMat/studysync/issues/24).
+Next.js (TypeScript) + Supabase (Auth, Postgres, Storage) + API d'un modèle de langage pour la génération des quiz, hébergé sur Vercel. Schémas (vue d'ensemble, parcours PDF → quiz, modèle de données) dans [docs/architecture.md](docs/architecture.md).
 
 ## Démarrer en local
 
